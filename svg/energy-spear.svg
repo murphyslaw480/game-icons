@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64px"
+   height="64px"
+   id="svg9321"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="torch-staff.svg">
+  <defs
+     id="defs9323" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#878787"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.18431373"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11"
+     inkscape:cx="67.042783"
+     inkscape:cy="27.362927"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:window-width="1918"
+     inkscape:window-height="1059"
+     inkscape:window-x="0"
+     inkscape:window-y="19"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10233"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata9326">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <g
+       transform="matrix(0.234375,0,0,0.234375,7.625291,-17.102387)"
+       id="g10378">
+      <use
+         y="0"
+         x="0"
+         width="744.09399"
+         height="1052.3621"
+         transform="translate(360,144)"
+         id="use10380" />
+    </g>
+    <g
+       id="g13386">
+      <path
+         id="path3263"
+         d="M 0,0 H 64 V 64 H 0 z"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g13378">
+        <path
+           id="path3267"
+           d="M 37.024975,21.92497 C 43.893904,14.837471 51.434978,8.7312332 60.333426,3.0512692 55.516804,12.204371 49.114598,19.799793 42.195757,26.936469 z"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+        <path
+           id="path3269"
+           d="M 3.9965678,47.600692 C 9.43255,41.988227 16.700943,38.416771 26.465294,36.557547 25.902445,46.953748 21.606423,53.709865 16.129475,59.362221 z"
+           inkscape:connector-curvature="0" />
+        <path
+           d="M 40.319848,26.255767 C 46.453534,21.088322 51.925087,14.819232 55.571197,8.2845742 48.977204,12.062379 42.797809,17.539983 37.741904,23.619129 l 2.577944,2.636638 z"
+           id="path13261"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 31.274886,32.739308 c -0.01567,0.02792 -0.02958,0.05996 -0.04519,0.08789 0.02761,-0.01595 0.06129,-0.02719 0.08888,-0.04319 l -0.04369,-0.04469 z"
+           id="path13259"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3273"
+           d="m 33.417339,27.511555 c -2.589307,4.647997 -6.081823,7.708061 -9.906956,10.222197 -0.387779,2.472832 0.905584,3.393746 3.076326,2.967063 2.5969,-4.547573 5.869364,-7.768793 9.90728,-10.2222 -0.02655,-1.705059 -1.12525,-3.027918 -3.076798,-2.99753 z"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.87898242;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect13265"
+           width="51.475468"
+           height="1.0206316"
+           x="-40.199055"
+           y="44.62888"
+           ry="0.51031578"
+           transform="matrix(0.69780019,-0.71629247,0.709307,0.7048997,0,0)" />
+      </g>
+    </g>
+  </g>
+</svg>
